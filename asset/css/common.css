@@ -199,47 +199,47 @@ h2.title {
 }
 
 .sec02-01 {
-    background: #eee url("/asset/images/sec02_01.png") no-repeat center / 70%;
+    background: #eee url("../images/sec02_01.png") no-repeat center / 70%;
 }
 
 .sec02-02 {
-    background: #eee url("/asset/images/sec02_02.png") no-repeat right 20px bottom 30px / 70%;
+    background: #eee url("../images/sec02_02.png") no-repeat right 20px bottom 30px / 70%;
 }
 
 .sec02-03 {
-    background: #eee url("/asset/images/sec02_03.png") no-repeat center bottom 40px / 70%;
+    background: #eee url("../images/sec02_03.png") no-repeat center bottom 40px / 70%;
 }
 
 .sec02-04 {
-    background: #eee url("/asset/images/sec02_04.png") no-repeat center bottom 30px / 60%;
+    background: #eee url("../images/sec02_04.png") no-repeat center bottom 30px / 60%;
 }
 
 .sec02-05 {
-    background: #eee url("/asset/images/sec02_05.png") no-repeat center bottom 40px / 70%;
+    background: #eee url("../images/sec02_05.png") no-repeat center bottom 40px / 70%;
 }
 
 .sec03-01 {
-    background: #eee url("/asset/images/sec03_01.png") no-repeat center bottom 100px / 70%;
+    background: #eee url("../images/sec03_01.png") no-repeat center bottom 100px / 70%;
 }
 
 .sec03-02 {
-    background: #eee url("/asset/images/sec03_02.png") no-repeat right 30px bottom 50px / 45%;
+    background: #eee url("../images/sec03_02.png") no-repeat right 30px bottom 50px / 45%;
 }
 
 .sec03-03 {
-    background: #eee url("/asset/images/sec03_03.png") no-repeat right 50px bottom 40px / 40%;
+    background: #eee url("../images/sec03_03.png") no-repeat right 50px bottom 40px / 40%;
 }
 
 .sec04-01 {
-    background: #eee url("/asset/images/sec04_01.png") no-repeat right 110px bottom 60px / 50%;
+    background: #eee url("../images/sec04_01.png") no-repeat right 110px bottom 60px / 50%;
 }
 
 .sec04-02 {
-    background: #eee url("/asset/images/sec04_02.png") no-repeat right 70px bottom 40px / 30%;
+    background: #eee url("../images/sec04_02.png") no-repeat right 70px bottom 40px / 30%;
 }
 
 .sec04-03 {
-    background: #eee url("/asset/images/sec04_03.png") no-repeat right 50px bottom 40px / 40%;
+    background: #eee url("../images/sec04_03.png") no-repeat right 50px bottom 40px / 40%;
 }
 
 .msg-primary {
@@ -326,47 +326,47 @@ h2.title {
         width: 100%;
     }
     .sec02-01 {
-        background: #eee url("/asset/images/sec02_01.png") no-repeat center right 20px / 50%;
+        background: #eee url("../images/sec02_01.png") no-repeat center right 20px / 50%;
     }
     
     .sec02-02 {
-        background: #eee url("/asset/images/sec02_02.png") no-repeat right 20px center / 45%;
+        background: #eee url("../images/sec02_02.png") no-repeat right 20px center / 45%;
     }
     
     .sec02-03 {
-        background: #eee url("/asset/images/sec02_03.png") no-repeat right 30px center / 40%;
+        background: #eee url("../images/sec02_03.png") no-repeat right 30px center / 40%;
     }
     
     .sec02-04 {
-        background: #eee url("/asset/images/sec02_04.png") no-repeat center right 30px / 35%;
+        background: #eee url("../images/sec02_04.png") no-repeat center right 30px / 35%;
     }
     
     .sec02-05 {
-        background: #eee url("/asset/images/sec02_05.png") no-repeat center right 25px / 50%;
+        background: #eee url("../images/sec02_05.png") no-repeat center right 25px / 50%;
     }
     
     .sec03-01 {
-        background: #eee url("/asset/images/sec03_01.png") no-repeat top 40px right 20px / 45%;
+        background: #eee url("../images/sec03_01.png") no-repeat top 40px right 20px / 45%;
     }
     
     .sec03-02 {
-        background: #eee url("/asset/images/sec03_02.png") no-repeat right 20px center / 45%;
+        background: #eee url("../images/sec03_02.png") no-repeat right 20px center / 45%;
     }
     
     .sec03-03 {
-        background: #eee url("/asset/images/sec03_03.png") no-repeat right 20px center / 40%;
+        background: #eee url("../images/sec03_03.png") no-repeat right 20px center / 40%;
     }
     
     .sec04-01 {
-        background: #eee url("/asset/images/sec04_01.png") no-repeat right 20px center / 30%;
+        background: #eee url("../images/sec04_01.png") no-repeat right 20px center / 30%;
     }
     
     .sec04-02 {
-        background: #eee url("/asset/images/sec04_02.png") no-repeat right 30px center / 30%;
+        background: #eee url("../images/sec04_02.png") no-repeat right 30px center / 30%;
     }
     
     .sec04-03 {
-        background: #eee url("/asset/images/sec04_03.png") no-repeat right 20px center / 40%;
+        background: #eee url("../images/sec04_03.png") no-repeat right 20px center / 40%;
     }
 
     .msg-primary {
@@ -403,15 +403,15 @@ h3.title {
 }
 
 .sec05-item:nth-child(1) div {
-    background: #eee url("/asset/images/sec05_01.png") no-repeat bottom 5px right -30px / 100%;
+    background: #eee url("../images/sec05_01.png") no-repeat bottom 5px right -30px / 100%;
 }
 
 .sec05-item:nth-child(2) div {
-    background: #eee url("/asset/images/sec05_02.png") no-repeat center bottom -5px / 75%;
+    background: #eee url("../images/sec05_02.png") no-repeat center bottom -5px / 75%;
 }
 
 .sec05-item:nth-child(3) div {
-    background: #eee url("/asset/images/sec05_03.png") no-repeat center bottom / 80%;
+    background: #eee url("../images/sec05_03.png") no-repeat center bottom / 80%;
 }
 
 .sec05-item div {
@@ -559,7 +559,7 @@ h3.title {
     right: 40px;
     width: 35px;
     height: 21px;
-    background: url("/asset/images/arrow_down.png") no-repeat center / contain;
+    background: url("../images/arrow_down.png") no-repeat center / contain;
     transition: all .5s ease;
 }
 
