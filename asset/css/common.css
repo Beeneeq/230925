@@ -31,10 +31,6 @@
     color: #444;
 }
 
-.sec01-list {
-
-}
-
 .sec01-item {
     position: relative;
     width: 100%;
@@ -108,8 +104,9 @@
     .sec01-list-txt {
         min-height: auto;
         padding: 20px;
-        font-size: 13px;
+        font-size: 18px;
         border-radius: 20px;
+        word-break: keep-all;
     }
     .sec01-list-img {
         width: 75px;
@@ -129,7 +126,7 @@
 
 h2.title {
     margin-bottom: 40px;
-    font-size: 50px;
+    font-size: 44px;
     font-weight: bold;
 }
 
@@ -243,7 +240,7 @@ h2.title {
 }
 
 .msg-primary {
-    margin-top: 40px;
+    margin-top: 20px;
     font-size: 24px;
 }
 
@@ -319,30 +316,28 @@ h2.title {
     .flex-box div:not(.flex-box-in, .flex-box-in2) {
         height: 40vw;
     }
-    .flex-box-in {
-        flex-direction: column;
-    }
+    
     .flex-box .flex-box-in div {
-        width: 100%;
+        width: calc(50% - 10px);
     }
     .sec02-01 {
         background: #eee url("../images/sec02_01.png") no-repeat center right 20px / 50%;
     }
     
     .sec02-02 {
-        background: #eee url("../images/sec02_02.png") no-repeat right 20px center / 45%;
+        background: #eee url("../images/sec02_02.png") no-repeat right 20px bottom 30px / 60%;
     }
     
     .sec02-03 {
-        background: #eee url("../images/sec02_03.png") no-repeat right 30px center / 40%;
+        background: #eee url("../images/sec02_03.png") no-repeat right 30px bottom 45px / 50%;
     }
     
     .sec02-04 {
-        background: #eee url("../images/sec02_04.png") no-repeat center right 30px / 35%;
+        background: #eee url("../images/sec02_04.png") no-repeat bottom 40px right 30px / 45%;
     }
     
     .sec02-05 {
-        background: #eee url("../images/sec02_05.png") no-repeat center right 25px / 50%;
+        background: #eee url("../images/sec02_05.png") no-repeat bottom 40px right 25px / 50%;
     }
     
     .sec03-01 {
@@ -519,7 +514,7 @@ h3.title {
         line-height: 40px;
     }
     .sec05-item .text {
-        font-size: 16px;
+        font-size: 18px;
     }
     .banner {
         flex-direction: column;
@@ -548,7 +543,7 @@ h3.title {
     width: 100%;
     margin-top: 50px;
     padding: 25px 40px;
-    background: #124485;
+    background: #666666;
 }
 
 .acco-btn::after {
@@ -568,7 +563,7 @@ h3.title {
 } 
 
 .acco-title {
-    font-size: 38px;
+    font-size: 28px;
     font-weight: bold;
     color: #fff;
     text-align: left;
@@ -593,7 +588,7 @@ h3.title {
 
 .acco-item .text {
     padding: 20px 40px;
-    background: #eee;
+    background: #fff;
     font-size: 20px;
     color: #333;
     line-height: 1.6;
@@ -630,7 +625,7 @@ h3.title {
         padding: 20px;
     }
     .acco-title {
-        font-size: 20px;
+        font-size: 18px;
     }
     .acco-btn::after {
         right: 20px;
